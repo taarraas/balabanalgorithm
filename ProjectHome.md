@@ -1,0 +1,1 @@
+Java implementation of Balaban algorithm with GUI which demonstate work of algorithm. Complexity O( n\*log^2(n)+k ). Covered with unit tests.
